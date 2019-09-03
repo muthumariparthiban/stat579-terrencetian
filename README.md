@@ -1,6 +1,6 @@
 # stat579-yetian
 ## create a first repo for stat 579
--  
+- Additional information 
   -  Terrence Tian
   -  research, traveling, 
   -  taxi ridings,
